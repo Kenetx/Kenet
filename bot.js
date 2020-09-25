@@ -21,3 +21,8 @@ client.on('message', message => {
        }
 
 });
+
+ 
+
+
+client.login(process.env.NzU3MjU1NjEwMDM0MjkwODM5.X2dvPg.VvdcDBQZFOP0JVhaVNKiPb5saUY);
